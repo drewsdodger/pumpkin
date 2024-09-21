@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.kodi.xbmc
+Version: 17.6
+Section: iOS6
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/Kodi32.deb
+Size: 45330
+MD5sum: 65b2deba9dea04d6e95a864216021a46
+Description: A 32bit version of Kodi, not very useful anymore
+Name: Kodi
+Author: XBMC
+Depiction: https://www.minipumpkin.uk/depictions/?p=kodi

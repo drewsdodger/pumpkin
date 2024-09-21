@@ -1,0 +1,23 @@
+<package>
+	<id>com.kodi.xbmc</id>
+	<name>Kodi</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>32bit kodi</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Oldest found version</change>
+	</changelog>
+	<links></links>
+</package>
