@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.kodi.xbmc
 Version: 17.6
-Section: iOS6
+Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
