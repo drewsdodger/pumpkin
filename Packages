@@ -1,14 +1,28 @@
-Package: org.xbmc.kodi
-Name: Kodi
-Version: 17.6
-Architecture: iphoneos-arm 
-Description: Kodi Krypton for 32bit iOS
-Maintainer: XBMC
-Author: XBMC
-Section: 
-Depends: 
-Filename: debs/Kodi32.deb
-Size: 46420
-MD5sum: 65b2deba9dea04d6e95a864216021a46
-SHA1: 26c7ae7c3e345831bc445bccbc5b0d5041621d69
-SHA256: a5eb0ee4017c0bd818ef1aea1f7ba568d844bd7d0a5bbe12ddde065113355819
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
